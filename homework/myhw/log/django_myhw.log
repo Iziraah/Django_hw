@@ -1,0 +1,7 @@
+INFO 2023-09-11 16:03:25,108 autoreload 2288 6196 Watching for file changes with StatReloader
+INFO 2023-09-11 16:05:49,940 autoreload 1924 3720 Watching for file changes with StatReloader
+INFO 2023-09-11 16:08:23,851 autoreload 9848 15036 Watching for file changes with StatReloader
+INFO 2023-09-11 16:08:27,223 views 9848 8200 Index page accessed successfully!
+INFO 2023-09-11 16:08:27,225 basehttp 9848 8200 "GET / HTTP/1.1" 200 24
+INFO 2023-09-11 16:08:39,166 views 9848 8200 About page accessed successfully!
+INFO 2023-09-11 16:08:39,167 basehttp 9848 8200 "GET /about/ HTTP/1.1" 200 52
