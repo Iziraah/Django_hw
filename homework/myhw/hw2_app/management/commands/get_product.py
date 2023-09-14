@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand
-from hw2_app.models import Product  # Используйте имя вашего приложения, здесь это 'hw2_app'
+from hw2_app.models import Product  
 
 class Command(BaseCommand):
     help = 'Получить информацию о товаре по ID'

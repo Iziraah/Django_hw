@@ -1,6 +1,5 @@
 from django.core.management.base import BaseCommand
-from hw2_app.models import Client  # Используйте имя вашего приложения, здесь это 'hw2_app'
-
+from hw2_app.models import Client  
 class Command(BaseCommand):
     help = 'Получить данные клиента по ID'
 

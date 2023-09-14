@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand
-from hw2_app.models import Client  # Замените 'myapp' на имя вашего приложения
+from hw2_app.models import Client 
 
 class Command(BaseCommand):
     help = 'Создать нового клиента'
