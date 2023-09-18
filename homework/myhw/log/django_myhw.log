@@ -5,3 +5,53 @@ INFO 2023-09-11 16:08:27,223 views 9848 8200 Index page accessed successfully!
 INFO 2023-09-11 16:08:27,225 basehttp 9848 8200 "GET / HTTP/1.1" 200 24
 INFO 2023-09-11 16:08:39,166 views 9848 8200 About page accessed successfully!
 INFO 2023-09-11 16:08:39,167 basehttp 9848 8200 "GET /about/ HTTP/1.1" 200 52
+INFO 2023-09-18 17:39:38,468 autoreload 1236 2600 Watching for file changes with StatReloader
+INFO 2023-09-18 17:39:42,514 views 1236 5824 Index page accessed successfully!
+INFO 2023-09-18 17:39:42,515 basehttp 1236 5824 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-18 17:39:43,165 log 1236 5824 Not Found: /favicon.ico
+WARNING 2023-09-18 17:39:43,165 basehttp 1236 5824 "GET /favicon.ico HTTP/1.1" 404 2436
+WARNING 2023-09-18 17:39:56,427 log 1236 5824 Not Found: /user/1/order
+WARNING 2023-09-18 17:39:56,428 basehttp 1236 5824 "GET /user/1/order HTTP/1.1" 404 2439
+WARNING 2023-09-18 17:40:04,070 log 1236 5824 Not Found: /user/1/orders
+WARNING 2023-09-18 17:40:04,070 basehttp 1236 5824 "GET /user/1/orders HTTP/1.1" 404 2442
+INFO 2023-09-18 17:41:55,110 autoreload 3012 8648 Watching for file changes with StatReloader
+INFO 2023-09-18 17:42:30,452 views 3012 1464 Index page accessed successfully!
+INFO 2023-09-18 17:42:30,453 basehttp 3012 1464 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-18 17:42:52,937 log 3012 1464 Not Found: /users/1/orders
+WARNING 2023-09-18 17:42:52,938 basehttp 3012 1464 "GET /users/1/orders HTTP/1.1" 404 2445
+WARNING 2023-09-18 17:42:59,829 log 3012 1464 Not Found: /users/1/orders/
+WARNING 2023-09-18 17:42:59,830 basehttp 3012 1464 "GET /users/1/orders/ HTTP/1.1" 404 2448
+INFO 2023-09-18 17:46:44,941 autoreload 11168 13120 Watching for file changes with StatReloader
+INFO 2023-09-18 17:46:49,676 views 11168 7500 Index page accessed successfully!
+INFO 2023-09-18 17:46:49,678 basehttp 11168 7500 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-18 17:47:06,994 log 11168 7500 Not Found: /users/1/orders/
+WARNING 2023-09-18 17:47:06,994 basehttp 11168 7500 "GET /users/1/orders/ HTTP/1.1" 404 2448
+INFO 2023-09-18 17:53:26,596 autoreload 11168 13120 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\hw2_app\models.py changed, reloading.
+INFO 2023-09-18 17:53:27,045 autoreload 11668 3504 Watching for file changes with StatReloader
+INFO 2023-09-18 17:54:39,227 autoreload 1188 3192 Watching for file changes with StatReloader
+INFO 2023-09-18 17:54:42,096 views 1188 2824 Index page accessed successfully!
+INFO 2023-09-18 17:54:42,097 basehttp 1188 2824 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-18 17:54:56,125 log 1188 2824 Not Found: /users/1/orders
+WARNING 2023-09-18 17:54:56,125 basehttp 1188 2824 "GET /users/1/orders HTTP/1.1" 404 2445
+INFO 2023-09-18 17:58:23,568 autoreload 14756 10720 Watching for file changes with StatReloader
+INFO 2023-09-18 17:58:30,719 views 14756 5876 Index page accessed successfully!
+INFO 2023-09-18 17:58:30,720 basehttp 14756 5876 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-18 17:58:44,298 log 14756 5876 Not Found: /users/1/orders/
+WARNING 2023-09-18 17:58:44,298 basehttp 14756 5876 "GET /users/1/orders/ HTTP/1.1" 404 2448
+INFO 2023-09-18 18:01:59,595 autoreload 14464 2452 Watching for file changes with StatReloader
+INFO 2023-09-18 18:02:02,768 views 14464 12300 Index page accessed successfully!
+INFO 2023-09-18 18:02:02,769 basehttp 14464 12300 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-18 18:02:28,119 log 14464 12300 Not Found: /users/1/orders/
+WARNING 2023-09-18 18:02:28,119 basehttp 14464 12300 "GET /users/1/orders/ HTTP/1.1" 404 2448
+INFO 2023-09-18 18:05:22,688 autoreload 6108 2684 Watching for file changes with StatReloader
+INFO 2023-09-18 18:05:25,401 views 6108 12036 Index page accessed successfully!
+INFO 2023-09-18 18:05:25,403 basehttp 6108 12036 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-18 18:05:39,295 log 6108 12036 Not Found: /users/1/orders
+WARNING 2023-09-18 18:05:39,296 basehttp 6108 12036 "GET /users/1/orders HTTP/1.1" 404 2445
+INFO 2023-09-18 18:07:04,321 autoreload 6108 2684 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\myhw\urls.py changed, reloading.
+INFO 2023-09-18 18:07:04,721 autoreload 6320 1700 Watching for file changes with StatReloader
+INFO 2023-09-18 18:07:06,013 autoreload 6320 1700 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\myhw\urls.py changed, reloading.
+INFO 2023-09-18 18:07:06,410 autoreload 13128 13716 Watching for file changes with StatReloader
+INFO 2023-09-18 18:08:17,242 autoreload 9376 4364 Watching for file changes with StatReloader
+INFO 2023-09-18 18:08:53,023 autoreload 7196 6536 Watching for file changes with StatReloader
+INFO 2023-09-18 18:09:34,990 autoreload 5300 2560 Watching for file changes with StatReloader

@@ -158,5 +158,10 @@ LOGGING = {
             'level': 'DEBUG',
             'propagate': True,
         },
+        'hw2_app': {
+            'handlers': ['console', 'file'],  # 'handlers': ['console', 'file'],
+            'level': 'DEBUG',
+            'propagate': True,
+        },
     },
 }
