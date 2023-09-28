@@ -1244,3 +1244,14 @@ INFO 2023-09-25 14:34:50,045 basehttp 3728 9564 "GET /admin/new_hw_app/order/ HT
 INFO 2023-09-25 14:34:50,076 basehttp 3728 9564 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
 INFO 2023-09-25 14:34:51,438 basehttp 3728 9564 "GET /admin/new_hw_app/order/1/change/ HTTP/1.1" 200 16124
 INFO 2023-09-25 14:34:51,468 basehttp 3728 9564 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-28 15:36:50,986 autoreload 7568 6580 Watching for file changes with StatReloader
+INFO 2023-09-28 15:36:54,076 views 7568 11560 Index page accessed successfully!
+INFO 2023-09-28 15:36:54,225 basehttp 7568 11560 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-28 15:36:54,576 log 7568 11560 Not Found: /favicon.ico
+WARNING 2023-09-28 15:36:54,577 basehttp 7568 11560 "GET /favicon.ico HTTP/1.1" 404 12301
+INFO 2023-09-28 15:37:11,674 basehttp 7568 11560 "GET /hw/user/1/ HTTP/1.1" 200 10591
+INFO 2023-09-28 15:37:11,711 basehttp 7568 11560 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2023-09-28 15:37:11,719 basehttp 7568 8260 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13404
+INFO 2023-09-28 15:37:11,802 basehttp 7568 8260 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2023-09-28 15:37:11,824 basehttp 7568 8260 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+INFO 2023-09-28 15:41:44,456 autoreload 7568 6580 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\myhw\settings.py changed, reloading.
